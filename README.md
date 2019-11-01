@@ -2,7 +2,7 @@
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **8** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [x] User can **sign in to Twitter** using OAuth login
 - [x]	User can **view tweets from their home timeline**
   - [x] User is displayed the username, name, and body for each tweet
-  - [ ] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
+  - [x] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
 - [x] User can refresh tweets timeline by pulling down to refresh
 
 The following **optional** features are implemented:
@@ -36,13 +36,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/gZtbFeH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was the first assignment where not everything was covered in the video walkthrough. I am very much a visual learner and following a concept guide with only words and no pictures was a little challenging for me, especially because Android Studio is still a little unfamiliar to me. However, by slowing down and trying to comprehend each step, I eventually finished all of the required stories.
 
 ## Open-source libraries used
 
@@ -51,7 +51,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Cattien Ngo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
